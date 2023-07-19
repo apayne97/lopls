@@ -151,10 +151,8 @@
  opls_138   12.01100  ; alkane CH4 
  opls_139   12.01100  ; alkane C   
  opls_140    1.00800  ; alkane H.
-#ifdef LOPLS
  opls_140A   1.00800  ; alkane H on CH3 (LOPLS)
  opls_140B   1.00800  ; alkane H on CH2 (LOPLS)
-#endif
  opls_141   12.01100  ; alkene C (R2-C=) 
  opls_142   12.01100  ; alkene C (RH-C=) 
  opls_143   12.01100  ; alkene C (H2-C=) 
